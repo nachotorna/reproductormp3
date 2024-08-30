@@ -460,12 +460,13 @@ button:active {
 
 @media (max-width: 900px) {
   .player {
-      height: 70vh; /* Ajusta la altura a un 80% de la vista */
-      padding: 12px; /* Ajusta el padding para pantallas de tabletas */
-      row-gap: 10px; /* Mantiene el espacio entre filas */
-      background: linear-gradient(135deg, #ff7e5f, #ff0000); /* Mantiene el degradado */
+    height: 70vh; /* Ajusta la altura a un 70% de la vista */
+    padding: 12px; /* Ajusta el padding para pantallas de tabletas */
+    row-gap: 10px; /* Mantiene el espacio entre filas */
+    background: linear-gradient(135deg, #ff7e5f, #ff0000); /* Mantiene el degradado */
   }
-.player-display {
-    background: trasparent;
-}
+
+  .player-display {
+    background: transparent; /* Corrección del valor 'transparent' */
+  }
 }
