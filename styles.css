@@ -452,7 +452,10 @@ button:active {
       padding: 8px; /* Reduce el padding para pantallas pequeñas */
       row-gap: 8px; /* Ajusta el espacio entre filas */
       background: linear-gradient(135deg, #ff7e5f, #ff0000); /* Mantiene el degradado */
+      
   }
+    .player-display {
+        background: trasparent;
 }
 
 @media (max-width: 900px) {
@@ -462,4 +465,7 @@ button:active {
       row-gap: 10px; /* Mantiene el espacio entre filas */
       background: linear-gradient(135deg, #ff7e5f, #ff0000); /* Mantiene el degradado */
   }
+.player-display {
+    background: trasparent;
+}
 }
