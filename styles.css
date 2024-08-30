@@ -455,7 +455,7 @@ button:active {
       
   }
     .player-display {
-        background: trasparent;
+        background: transparent;
 }
 
 @media (max-width: 900px) {
