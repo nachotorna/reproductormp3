@@ -42,7 +42,7 @@ Este proyecto es una práctica de aprendizaje. Sin embargo, si deseas sugerir me
 
 Créditos
 FreeCodeCamp: Plataforma educativa que proporciona los fundamentos y estructura básica del proyecto.
-Adaptación de Estilos: Realizada por [tu nombre o usuario de GitHub].
+Adaptación de Estilos: Realizada por Nacho Tornatti.
 Licencia
 Este proyecto está bajo la Licencia MIT - consulta el archivo LICENSE para más detalles.
 
