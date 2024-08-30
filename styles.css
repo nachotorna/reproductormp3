@@ -448,7 +448,7 @@ button:active {
 
 @media (max-width: 600px) {
   .player {
-      height: 60vh; /* Ajusta la altura automáticamente según el contenido */
+      height: 70vh; /* Ajusta la altura automáticamente según el contenido */
       padding: 8px; /* Reduce el padding para pantallas pequeñas */
       row-gap: 8px; /* Ajusta el espacio entre filas */
       background: linear-gradient(135deg, #ff7e5f, #ff0000); /* Mantiene el degradado */
@@ -457,7 +457,7 @@ button:active {
 
 @media (max-width: 900px) {
   .player {
-      height: 60vh; /* Ajusta la altura a un 80% de la vista */
+      height: 70vh; /* Ajusta la altura a un 80% de la vista */
       padding: 12px; /* Ajusta el padding para pantallas de tabletas */
       row-gap: 10px; /* Mantiene el espacio entre filas */
       background: linear-gradient(135deg, #ff7e5f, #ff0000); /* Mantiene el degradado */
